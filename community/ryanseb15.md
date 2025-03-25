@@ -1,0 +1,1 @@
+Meu nome é Ryan Santos e atualmente estou cursando Análise e Desenvolvimento de Sistemas na UniCesumar, tenho conhecimento em: HTML, CSS, JavaScript, C, PostgreSQL, Git, GitHub, e estou querendo aprender Java.
